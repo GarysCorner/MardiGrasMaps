@@ -20,6 +20,6 @@ Inspiration for this kind of mapping and quick updates came from years of lookin
 
 This project is working but needs some polish.  The maps need to look better the labeling needs better rotations (probably UTM conversion required), and I need to add in patches for other datasets.   Hopefully Ill get around to it, but you know how it is once a project is 75% complete, it stops being fun and I tend to put them down.  But whatever I dont put enough on github so here it is.
 
-### Limitations and Usage
+## Limitations and Usage
 
 This code is provided as is to be used however.  The author (me) takes no responsibility for accuracy or how the code is use.  The code is for educational purposes only...namely to educate me so seriously whatever you do with it is on you!
