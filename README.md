@@ -4,7 +4,7 @@
 
 ## Description
 
-This project downloads publicly available data and creates up-to-date Maps of New Orleans Parade routes for Mardi Gras 2025.
+This project downloads publicly available data and creates up-to-date maps of New Orleans Parade routes for Mardi Gras 2025.
 
 ![Chewbacchus Map](https://raw.githubusercontent.com/GarysCorner/MardiGrasMaps/refs/heads/master/RouteMaps/Chewbacchus.svg)
 
