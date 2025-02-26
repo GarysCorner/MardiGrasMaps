@@ -18,4 +18,4 @@ Inspiration for this kind of mapping and quick updates came from years of lookin
 
 ## Status
 
-This project is working but needs some polish.  The maps need to look better the labeling needs better rotations and updating, and I need to add in patches for other datasets.   Hopefully Ill get around to it, but you know how it is once a project is 75% complete, it stops being fun and I tend to put them down.  But whatever I dont put enough on github so here it is.
+This project is working but needs some polish.  The maps need to look better the labeling needs better rotations (probably UTM conversion required), and I need to add in patches for other datasets.   Hopefully Ill get around to it, but you know how it is once a project is 75% complete, it stops being fun and I tend to put them down.  But whatever I dont put enough on github so here it is.
