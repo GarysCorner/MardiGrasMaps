@@ -4,7 +4,7 @@
 
 ## Description
 
-This project downloads publicly availble data and creates up-to-date MAPS of New Orleans Parade routes for Mardi Gras 2025.
+This project downloads publicly available data and creates up-to-date MAPS of New Orleans Parade routes for Mardi Gras 2025.
 
 ![Chewbacchus Map](https://raw.githubusercontent.com/GarysCorner/MardiGrasMaps/refs/heads/master/RouteMaps/Chewbacchus.svg)
 
@@ -14,7 +14,7 @@ The purpose of this project is mostly to shore up my skills with GeoPandas and G
 
 While I realize I could achieve a more useful effect leverageing something like [LeafletJS](https://leafletjs.com/) or perhaps the GoogleMaps API for this kind of project, these arent the tools I tend to use in the real world.  Since I tend to use Matplotlib and Geoplot for spatial data since I'm trying to tell a story or show something spefici rather then make "dive your own data" sort of visualizations I wanted to get better with this project.
 
-Inspiration for this kind of mapping and quick updates came from years of looking at [MardiGrasNewOrleans.com](https://www.mardigrasneworleans.com/parades/)
+Inspiration for this kind of mapping and quick updates came from years of looking at [MardiGrasNewOrleans.com](https://www.mardigrasneworleans.com/parades/) which use to be static images.  I always liked the static images because I could download then on my cell and access them when the signal inevitably goes to sh*t during parades!
 
 ## Status
 
