@@ -6,6 +6,8 @@
 
 This project downloads publicly availble data and creates up-to-date MAPS of New Orleans Parade routes for Mardi Gras 2025.
 
+![Chewbacchus Map](https://raw.githubusercontent.com/GarysCorner/MardiGrasMaps/refs/heads/master/RouteMaps/Chewbacchus.svg)
+
 ## Purpose
 
 The purpose of this project is mostly to shore up my skills with GeoPandas and Geoplot.  However I did notice that when the City changes parade routes or schedules on short notice they do tend to publish the information very quickly on their [Data Portal](https://datadriven.nola.gov/home/).  I suspect this is because they use the routes to coordinate all kinds of related activity accross the city but who knows maybe the guy that does that just likes his job.  Regardless I saw an opportunity to make a process to regenerate static maps on the fly to account for changes.
