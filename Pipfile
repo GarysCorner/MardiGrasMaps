@@ -10,6 +10,7 @@ pandas = "*"
 geopandas = "*"
 matplotlib = "*"
 geoplot = "*"
+icalendar = "*"
 
 [dev-packages]
 
