@@ -1,6 +1,4 @@
-# Mardi Gras Route Maps
-
-**I haven't found the published route data for 2026, if you have please contact me**
+# Mardi Gras Route Maps (updated for 2026)
 
 [View all maps here!](https://s3.amazonaws.com/filestogeaux.garyscorner.net/pub/MardiGrasRouteMaps/index.html)
 
