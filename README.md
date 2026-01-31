@@ -6,7 +6,7 @@
 
 ## Description
 
-This project downloads publicly available data and creates up-to-date maps of New Orleans Parade routes for Mardi Gras 2026.  At the momment there are no official published routes for 2026 but I have updated the 2025 data with 2026 dates, soooooooo its probably almost certainly corectish....YEA tradition!
+This project downloads publicly available data and creates up-to-date maps of New Orleans Parade routes for Mardi Gras 2026.
 
 ![Chewbacchus Map](https://raw.githubusercontent.com/GarysCorner/MardiGrasMaps/refs/heads/master/RouteMaps/Chewbacchus.svg)
 
